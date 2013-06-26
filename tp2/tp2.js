@@ -16,4 +16,9 @@ $(function() {
 		var tab = window.open("_blank");
 		tab.location = event.currentTarget.href;
 	});
+	
+	$( window ).on( "orientationchange", function( event ) {
+		$("title").val( $("h1").val() + " - "  + $(this).val() );
+		 event.orientation;
+	});
 });
