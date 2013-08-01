@@ -18,4 +18,4 @@
 		var tab = window.open("_blank");
 		tab.location = event.currentTarget.href;
 	});
-})(window, $);
+}(window, $));
