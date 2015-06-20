@@ -1,7 +1,7 @@
 jQueryMobile-introduction
 =========================
 
-Ce dépot contient les sources d'exemple au tutoriel d'introduction à jQuery Mobile ( http://nantes.labo-web.com/blog/tutoriels/jquery-mobile-introduction-1-4 ). Vous pourrez retrouver tout les exemples en ligne à ce lien : http://projects.emmanuelgautier.fr/jquerymobile-introduction/.
+Ce dépot contient les sources d'exemple au tutoriel d'introduction à jQuery Mobile ( http://nantes.labo-web.com/blog/tutoriels/jquery-mobile-introduction-1-4 ). Vous pourrez retrouver tout les exemples en ligne à ce lien : http://lab.emmanuelgautier.fr/jquerymobile-introduction/.
 
 Licence
 =======
